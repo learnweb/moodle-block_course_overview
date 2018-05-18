@@ -66,3 +66,8 @@ $string['view_edit_profile'] = '(View and edit your profile.)';
 $string['welcome'] = 'Welcome {$a}';
 $string['youhavemessages'] = 'You have {$a} unread ';
 $string['youhavenomessages'] = 'You have no unread ';
+
+// Privacy API.
+$string['privacy:metadata:preference:number_of_courses'] = 'The plugin saves user preferences for the number of courses displayed to a user in the block.';
+$string['privacy:metadata:preference:course_sortorder'] = 'The plugin saves user preferences for the order in which courses are displayed.';
+
